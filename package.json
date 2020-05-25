@@ -1,7 +1,7 @@
 {
-  "name": "beautiful-places",
+  "name": "v2",
   "version": "1.0.0",
-  "description": "Places I want to visit or love.",
+  "description": "Portfolio v2.",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
